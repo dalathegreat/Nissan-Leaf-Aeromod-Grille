@@ -17,6 +17,8 @@ The hooks are extremely important, so use slow speed or really hot temp with PET
 
 Always print in black for a stealthy look ;)
 
+How to install after printing, sections are numbered
+![alt text](https://github.com/dalathegreat/Nissan-Leaf-Aeromod-Grille/blob/master/HowToInstall.PNG)
 
 Design by Dala's EV Repair
 www.dalasevrepair.fi
