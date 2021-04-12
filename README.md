@@ -15,14 +15,16 @@ Tested with both PLA and PETG. Should also work well with ABS. Split into 4 sect
 
 The hooks are extremely important, so use slow speed or really hot temp with PETG, there is a tradeoff with stringing/layer adhesion, but always prioritize adhesion on this component.
 
-Update version 2 (12.04.21):
--Fixed faulty hooks
--All logos and numbers on the back now raised fråm the plate for better printing results
-
 Always print in black for a stealthy look ;)
 
 How to install after printing, sections are numbered
 ![alt text](https://github.com/dalathegreat/Nissan-Leaf-Aeromod-Grille/blob/master/HowToInstall.PNG)
+
+Update version 2:
+
+-Fixed faulty hooks
+
+-All logos and numbers on the back now raised fråm the plate for better printing results
 
 Design by Dala's EV Repair
 www.dalasevrepair.fi
