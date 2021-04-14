@@ -20,5 +20,11 @@ Always print in black for a stealthy look ;)
 How to install after printing, sections are numbered
 ![alt text](https://github.com/dalathegreat/Nissan-Leaf-Aeromod-Grille/blob/master/HowToInstall.PNG)
 
+Update version 2:
+
+-Fixed faulty hooks
+
+-All logos and numbers on the back now raised fråm the plate for better printing results
+
 Design by Dala's EV Repair
 www.dalasevrepair.fi
